@@ -5,7 +5,7 @@
 layout: home
 title: About
 ---
-<img src="assets/kratz_josiah.jpg" width = 300px>
+<img src="assets/kratz_josiah.jpg" width = 300px class="rounded-img">
 
 I develop theories of learning in artificial and (previously) biological systems. I am also interested in using reinforcement learning to design better drug dosing protocols.
 
