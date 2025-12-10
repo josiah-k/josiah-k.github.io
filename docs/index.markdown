@@ -4,15 +4,8 @@
 
 layout: home
 title: About
-
-profile:
-  align: right
-  image: assets/kratz_josiah.jpg
-  image_circular: false # crops the image to make it circular
-
-social: true  # includes social icons at the bottom of the page
 ---
-<!-- <img align = "left" src="assets/kratz_josiah.jpg" width = 400px> -->
+<img src="assets/kratz_josiah.jpg" width = 300px>
 
 I develop theories of learning in artificial and (previously) biological systems. I am also interested in using reinforcement learning to design better drug dosing protocols.
 
