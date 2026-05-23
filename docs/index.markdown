@@ -7,6 +7,6 @@ title: About
 ---
 <img src="assets/kratz_josiah.jpg" width = 300px class="rounded-img">
 
-I develop theories of learning in artificial and (previously) biological systems. I am also interested in using reinforcement learning to design better drug dosing protocols.
+I develop theories of learning in artificial and biological systems. I am also interested in using reinforcement learning to design better drug dosing protocols.
 
-I am an incoming Postdoctoral Fellow in the [School of Physics](https://physics.gatech.edu) at Georgia Institute of Technology. I completed my PhD in [Computational Biology](https://www.cmu.edu/cbd/index.html) in the School of Computer Science at Carnegie Mellon University, advised by [Shiladitya Banerjee](https://shiladitya-banerjee.com).
+I am an independent Postdoctoral Fellow in the [School of Physics](https://physics.gatech.edu) at Georgia Institute of Technology. I completed my PhD in [Computational Biology](https://www.cmu.edu/cbd/index.html) in the School of Computer Science at Carnegie Mellon University, advised by [Shiladitya Banerjee](https://shiladitya-banerjee.com).
